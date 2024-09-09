@@ -9,7 +9,7 @@
 # print(a)
 
 
-mark=["fa1",80,"fa2",85,"fa3",95]
-report =mark[-4:]
-report=report[:1]+mark[5:]
-print(report)
+# mark=["fa1",80,"fa2",85,"fa3",95]
+# report =mark[-4:]
+# report=report[:1]+mark[5:]
+# print(report)
