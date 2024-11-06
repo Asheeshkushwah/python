@@ -29,30 +29,30 @@
 
 
 
-# rows =  5 
-# for i in range(rows + 1, 0, -1):
-#     for j in range(0, i - 1):
-#         print("*", end=' ')
-#     print(" ")
+rows =  5 
+for i in range(rows + 1, 0, -1):
+    for j in range(0, i - 1):
+        print("*", end=' ')
+    print(" ")
 
 
 
-rows = 6
+# rows = 6
 
-for row in range(1, rows):
+# for row in range(1, rows):
 
-    num = 1
+#     num = 1
 
-    for j in range(rows,0, -1):
+#     for j in range(rows,0, -1):
 
-       if j > row:
+#        if j > row:
 
-        print(" ", end=' ')
+#         print(" ", end=' ')
 
-    else:
+#     else:
 
-            print("*", end=' ')
+#             print("*", end=' ')
 
-            num += 1
+#             num += 1
 
-print("")
+# print("")
